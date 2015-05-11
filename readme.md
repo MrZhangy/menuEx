@@ -8,7 +8,7 @@ scrollView下有一个scrollView1,  scrollView1下有个UITableView
 三个scrollView相同方向（垂直方向滚动），当tableView到大顶部，不拖动scrollView移动。
 
 ###效果图：
-![](http://github.com/MrZhangy/menuEx/raw/master/images-folder/Untitled.gif)
+![image](http://github.com/MrZhangy/menuEx/raw/master/Untitled.gif)
 ###使用方法：
 1、添加headerView 和 bottomView
 
