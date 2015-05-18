@@ -10,6 +10,4 @@
 
 @interface TripleNestGestureRecognizer : UIGestureRecognizer
 
-
-
 @end
